@@ -225,7 +225,11 @@
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedParameter>
       </ownedOperation>
-      <ownedOperation xmi:id="_2_J-4J5UEfGAWuRCOKQ_Eg" name="getGeneticCode"/>
+      <ownedOperation xmi:id="_2_J-4J5UEfGAWuRCOKQ_Eg" name="getGeneticCode">
+        <ownedParameter xmi:id="_ZJaMQJ5WEfGAWuRCOKQ_Eg" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
       <ownedOperation xmi:id="_4FLy0J5UEfGAWuRCOKQ_Eg" name="getColor">
         <ownedParameter xmi:id="_43CtkJ5UEfGAWuRCOKQ_Eg" name="Parameter1" direction="return"/>
       </ownedOperation>
